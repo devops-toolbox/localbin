@@ -1,0 +1,22 @@
+---
+# Prereq packages: they get installed first
+_localbin_packages_prereq:
+  all:
+    - unzip
+    - tar
+    - gzip
+    - bzip2
+  CentOS_7:
+    - xz
+  RedHat_7:
+    - xz
+  CentOS_8:
+    - xz
+  RedHat_8:
+    - xz
+  Fedora_31:
+    - xz
+  Debian_10:
+    - xz-utils
+  Ubuntu_18:
+    - xz-utils

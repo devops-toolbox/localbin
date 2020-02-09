@@ -1,0 +1,86 @@
+---
+# defaults file for localbin
+
+localbin_user: root
+localbin_dir: "/usr/local/bin"
+
+localbin_neofetch_version: "6.1.0"
+localbin_neofetch_checksum: "sha256:ece351e35286b64d362000d409b27597fcbdcf77e8e60fa0adae1f29d3c29637"
+
+localbin_micro_version: "1.4.1"
+localbin_micro_checksum: "sha256:e7d4c9427f9fdfed78e69d42cf518e93ae15fc8f70b7f0f87d292ed81206e900"
+
+localbin_yq_version: "2.4.1"
+localbin_yq_checksum: "sha256:754c6e6a7ef92b00ef73b8b0bb1d76d651e04d26aa6c6625e272201afa889f8b"
+
+localbin_hugo_version: "0.62.0"
+localbin_hugo_checksum: "sha256:1c3f999320ae30f9b648f6f72305b126be7fd4bab9cb7edf74253c0cbe892c87"
+
+localbin_pandoc_version: "2.9.1"
+localbin_pandoc_checksum: "sha256:1a2f66ffa66d3fa82cd1cdba3fe6e094562f9513f44a0f587ed7d51af413880b"
+
+localbin_scc_version: "2.10.1"
+localbin_scc_checksum: "sha256:663da4a750fd4f0f3d9328dd58f6850c46f458f94258c04b78b630e47d667ff8"
+
+localbin_shellcheck_version: "0.7.0"
+localbin_shellcheck_checksum: "sha256:092f8ece0bb8413c835f4ecc14c9f1157ebb44a36a216e3d617d1048ecdfce1b"
+
+localbin_shfmt_version: "3.0.0"
+localbin_shfmt_checksum: "sha256:b7c9088741242dde26082be3a006693bd252b3fd1966b8b23aaee4d54ed2a470"
+
+localbin_docker_compose_version: "1.25.0"
+localbin_docker_compose_checksum: "sha256:2bdab0bbf42583b4b77ee015cf908933c78f0572a7cb949a7dd8e200e6250221"
+
+localbin_lazydocker_version: "0.7.6"
+localbin_lazydocker_checksum: "sha256:71081c3bd6bc1b9b750c776b6a10b2716ffa924b66829fcf44f6fbdab6975417"
+
+localbin_kubectl_version: "1.17.0"
+localbin_kubectl_checksum: "sha256:6e0aaaffe5507a44ec6b1b8a0fb585285813b78cc045f8804e70a6aac9d1cb4c"
+
+localbin_kompose_version: "1.19.0"
+localbin_kompose_checksum: "sha256:d73aa4242102884bc5589e7a6777461b7b2e0ddc20b63f2812bfbfcbaa4659d9"
+
+localbin_helm_version: "3.0.2"
+localbin_helm_checksum: "sha256:c6b7aa7e4ffc66e8abb4be328f71d48c643cb8f398d95c74d075cfb348710e1d"
+
+localbin_hadolint_version: "1.17.3"
+localbin_hadolint_checksum: "sha256:59635ef4cfeac298a038254168c60492a92d16fa7e9dfbaf1f1edb488b5aae4b"
+
+localbin_oc_version: "3.11.0"
+localbin_oc_checksum: "sha256:4b0f07428ba854174c58d2e38287e5402964c9a9355f6c359d1242efd0990da3"
+
+localbin_minishift_version: "1.34.2"
+localbin_minishift_checksum: "sha256:dd7c3a297ab741b90f62c5389f9ab0f484b094780d6deee0c9aa8e94837741d1"
+
+localbin_docker_machine_driver_version: "0.10.0"
+localbin_docker_machine_driver_checksum: "sha256:55919a888e8b9fad1a8d7f7308a827de36742fdf311eb9984cef0907d599d429"
+
+localbin_terraform_version: "0.12.18"
+localbin_terraform_checksum: "sha256:e7ebe3ca988768bffe0c239d107645bd53515354cff6cbe5651718195a151700"
+
+localbin_vault_version: "1.3.0"
+localbin_vault_checksum: "sha256:d89b8a317831b06f2a32c56cb86071d058b09d9317b416bb509ce3d01e912eb3"
+
+localbin_consul_version: "1.6.2"
+localbin_consul_checksum: "sha256:78d127e5b8edd310c3f9f89487fb833a5c7bcb4e09cb731a4d39100fc53b38be"
+
+localbin_nomad_version: "0.10.2"
+localbin_nomad_checksum: "sha256:cab179b0245e07ed39f4bcaa543e88d32fadf8660c2230733ce836873fe2714d"
+
+localbin_vagrant_version: "2.2.6"
+localbin_vagrant_checksum: "sha256:a08c7765baae1ee88b3bc0bace718087a84e2023d1f2ecc134aa735b89515a03"
+
+localbin_packer_version: "1.5.1"
+localbin_packer_checksum: "sha256:3305ede8886bc3fd83ec0640fb87418cc2a702b2cb1567b48c8cb9315e80047d"
+
+localbin_goss_version: "0.3.9"
+localbin_goss_checksum: "sha256:5e4a51a8c0f955e5ce99851b4a15eed9f1b3b6bee17f23dabda08071775663c8"
+
+localbin_dgoss_version: "0.3.9"
+localbin_dgoss_checksum: "sha256:9919a54fef4c6e9bb5438507c80796d4ed8be84372154a4b86847efd427a3c54"
+
+localbin_wtfutil_version: "0.25.0"
+localbin_wtfutil_checksum: "sha256:04fb7b147cef5f4ab18f6f6c340a565d8aa5b6623fd316a3d576f227128221af"
+
+localbin_alacritty_version: "0.4.0"
+localbin_alacritty_checksum: "sha256:01658587af5ec971249202f4f278166306003667435856612498a2b523d1b720"

@@ -1,0 +1,7 @@
+# Molecule managed
+---
+file:
+  /usr/local/bin/hugo:
+    exists: true
+    owner: root
+    group: root
