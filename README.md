@@ -9,10 +9,10 @@ directory. Example: install pandoc.
 Ansible galaxy:
 ---------------
 
-[https://galaxy.ansible.com/devops-toolbox.localbin](https://galaxy.ansible.com/devops-toolbox.localbin)
+[https://galaxy.ansible.com/devopstoolbox.localbin](https://galaxy.ansible.com/devopstoolbox.localbin)
 
 ```bash
-ansible-galaxy install devops-toolbox.localbin
+ansible-galaxy install devopstoolbox.localbin
 ```
 
 Requirements
@@ -53,7 +53,7 @@ Example Playbook
   tasks:
     - name: localbin is configured
       import_role:
-        name: devops-toolbox.localbin
+        name: devopstoolbox.localbin
       vars:
         localbin_user: root
         localbin_dir: "/usr/local/bin"
@@ -74,4 +74,4 @@ MIT
 Author Information
 ------------------
 
-- [Mihai Criveti](https://www.linkedin.com/in/devops-toolbox.)
+- [Mihai Criveti](https://www.linkedin.com/in/devopstoolbox.)
