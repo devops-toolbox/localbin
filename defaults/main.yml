@@ -19,6 +19,9 @@ localbin_hugo_checksum: "sha256:1c3f999320ae30f9b648f6f72305b126be7fd4bab9cb7edf
 localbin_pandoc_version: "2.9.1"
 localbin_pandoc_checksum: "sha256:1a2f66ffa66d3fa82cd1cdba3fe6e094562f9513f44a0f587ed7d51af413880b"
 
+localbin_hub_version: "2.14.1"
+localbin_hub_checksum: "sha256:734733c9d807715a4ec26ccce0f9987bd19f1c3f84dd35e56451711766930ef0"
+
 localbin_scc_version: "2.10.1"
 localbin_scc_checksum: "sha256:663da4a750fd4f0f3d9328dd58f6850c46f458f94258c04b78b630e47d667ff8"
 

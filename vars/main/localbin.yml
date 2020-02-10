@@ -50,6 +50,15 @@ localbin_tools:
     unpack: true
 
   # Code Tools
+  - name: hub
+    url: "https://github.com/github/hub/releases/download/\
+      v{{ localbin_hub_version }}/hub-linux-amd64-{{ localbin_hub_version }}.tgz"
+    checksum: "{{ localbin_hub_checksum }}"
+    version: "{{ localbin_hub_version }}"
+    version_command: "--version"
+    extra_opts: ["--strip=2", "--wildcards", "*/hub*"]
+    unpack: true
+
   - name: scc
     url: "https://github.com/boyter/scc/releases/download/\
       v{{ localbin_scc_version }}/scc-{{ localbin_scc_version }}-x86_64-unknown-linux.zip"
