@@ -7,8 +7,8 @@ localbin_dir: "/usr/local/bin"
 localbin_neofetch_version: "6.1.0"
 localbin_neofetch_checksum: "sha256:ece351e35286b64d362000d409b27597fcbdcf77e8e60fa0adae1f29d3c29637"
 
-localbin_micro_version: "1.4.1"
-localbin_micro_checksum: "sha256:e7d4c9427f9fdfed78e69d42cf518e93ae15fc8f70b7f0f87d292ed81206e900"
+localbin_micro_version: "2.0.1"
+localbin_micro_checksum: "sha256:433952bcf52bc28675d7bcf8c0b375c79894755134fff5ef6f4e4ed627a29452"
 
 localbin_yq_version: "2.4.1"
 localbin_yq_checksum: "sha256:754c6e6a7ef92b00ef73b8b0bb1d76d651e04d26aa6c6625e272201afa889f8b"
